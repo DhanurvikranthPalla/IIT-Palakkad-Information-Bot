@@ -11,6 +11,7 @@ lemmatizer = WordNetLemmatizer()
 
 intents = json.loads(open('intents.json').read())   # Loading the data
 
+# Creating empty lists to append tokenized sentences
 words = []
 classes = []
 documents = []
