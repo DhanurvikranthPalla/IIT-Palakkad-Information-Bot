@@ -1,0 +1,176 @@
+{"intents" : [
+    {"tag": "greetings",
+     "patterns": ["hello", "hi", "hey", "good morning", "good afternoon", "good evening"],
+     "responses": ["Hello! What can I do for you?", "Hey! How can I help you", "hi", "good morning", "good afternoon", "good evening"]
+    },
+
+    {"tag": "name",
+     "patterns": ["what is your name", "what should I call you", "who are you", "do you have a name"],
+     "responses": ["I am IPB", "You can call me IPB"]
+    },
+
+    {"tag": "purpose",
+     "patterns": ["what do you do", "what is your purpose", "how can you help me", "what can you do", "what are capable of", "what are you"],
+     "responses": ["I provide information about IIT Palakkad", "I can give you information about IIT Palakkad"]
+    },
+
+    {"tag": "feelings",
+     "patterns": ["Do you have feelings", "how are you feeling", "can you feel", "are you hurt", "are you fine", "are you happy", "are you sad"],
+     "responses": ["I don't have feelings"]
+    },
+
+    {"tag": "IPB",
+     "patterns": ["what does IPb mean", "what is the full form of IPB", "what does IPB stnad for"],
+     "responses" : ["It simply stands for IIT Palakkad Bot"]
+    },
+
+    {"tag": "monday breakfast",
+     "patterns": ["what is for breakfast on monday", "what is breakfast on monday", "what is breakfast monday"],
+     "responses": ["Aloo paratha, Ketchup, Curd, Non-Veg: Boiled Egg, Veg: Pineapple, Mint & Coriander Chutney"]
+    },
+
+    {"tag": "tuesday breakfast",
+     "patterns": ["what is for breakfast on tuesday", "what is breakfast on tuesday", "what is breakfast tuesday"],
+     "responses": ["Upma, Coconut chutney, Non-Veg: Boiled egg, Veg: Orange"]
+    },
+
+    {"tag": "wednesday breakfast",
+     "patterns": ["what is for breakfast on wednesday", "what is breakfast on wednesday", "what is breakfast wednesday"],
+     "responses": ["For week 2 & 4: Vegetable Uttapam, Coconut Chutney, Sambar, Non-Veg: Boiled egg; Veg: Guava, peanut butter and For week 1 & 3: Masala Dosa, Tomato Chutney, Sambar, Non-Veg: Boiled Egg; Veg: Banana, peanut butter"]
+    },
+
+    {"tag": "thursday breakfast",
+     "patterns": ["what is for breakfast on thursday", "what is breakfast on thursday", "what is breakfast thursday"],
+     "responses": ["Puri, Semi-dry black Chana masala, Non-Veg: Omelette; Veg: Pineapple"]
+    },
+
+    {"tag": "friday breakfast",
+     "patterns": ["what is for breakfast on friday", "what is breakfast on friday", "what is breakfast friday"],
+     "responses": ["Idly, Vada, sambar, coconut chutney, Non-veg: Boiled Egg, Veg: Banana"]
+    },
+
+    {"tag": "saturday breakfast",
+     "patterns": ["what is for breakfast on saturday", "what is breakfast on saturday", "what is breakfast saturday"],
+     "responses": ["For week 2 & 4: Semiya kichadi, Groundnut-Chutney, Peanut Butter, Non-veg: Omelette, Veg: Musk Melon and For week 1 & 3: Gobi Mix Veg Paratha, Green Coriander chutney, Peanut Butter, Non Veg: Boiled Egg, Veg: Musk Melon"]
+    },
+
+    {"tag": "sunday breakfast",
+     "patterns": ["what is for breakfast on sunday", "what is breakfast on sunday", "what is breakfast sunday"],
+     "responses": ["For week 2 & 4: Podi Dosa, Coconut Chutney, Sambar, Non-Veg: Boiled Egg; Veg: Banana and For week 1 & 3: Podi Dosa, Coconut Chutney, Sambar, Non-Veg: Boiled Egg; Veg: Banana"]
+    },
+
+    {"tag": "sunday lunch",
+     "patterns": ["what is for lunch on sunday", "what is lunch on sunday", "what is lunch sunday"],
+     "responses": ["For week 2 & 4: Non-Veg: Chicken Biryani, Veg: Mushroom Biryani, Chana dal tadka, Raita, Fresh Fruit Juice and For week 1 & 3: Non-Veg: Chicken Butter Masala; Veg: Paneer - Semi Dry- Masala, Chapati, Veg Briyani, Raita, Fresh Fruit Juice"]
+    },
+
+    {"tag": "monday lunch",
+     "patterns": ["what is for lunch on monday", "what is lunch on monday", "what is lunch monday"],
+     "responses": ["For week 2 & 4: Kadhi pakoda, Aloo Gobi, Arhar Daltadka, Kerala rice, Phulka, Fresh Fruit Juice and For week 1 & 3: Payar dry, Kadhi pakoda, Tamilnadu sambar, Fresh Fruit Juice, Kerala rice, Phulka"]
+    },
+
+    {"tag": "tuesday lunch",
+     "patterns": ["what is for lunch on tuesday", "what is lunch on tuesday", "what is lunch tuesday"],
+     "responses": ["Chola Bhatura, Toor dal fry, Seasonal fruit(watermelon), Veg Jalferzi, Lemon rice, curd & sugar"]
+    },
+
+    {"tag": "wednesday lunch",
+     "patterns": ["what is for lunch on wednesday", "what is lunch on wednesday", "what is lunch wednesday"],
+     "responses": ["For week 2 & 4:  Bhindi masala, Dondakaya fry with peanuts, Chana Dal Tadta, veg Pulao, phulka, spiced buttermilk and For week 1 & 3: Bhindi masala, Baigan Bharta, Chana Dal Tadka, chapati, veg Pulao, phulka, spiced buttermilk"]
+    },
+
+    {"tag": "thursday lunch",
+     "patterns": ["what is for lunch on thursday", "what is lunch on thursday", "what is lunch thursday"],
+     "responses": ["Musturd raw banana gravy, Rajma masala , Bottle Guard Sambar, Kerala rice, Phulka, Curd & Sugar"]
+    },
+
+    {"tag": "friday lunch",
+     "patterns": ["what is for lunch on friday", "what is lunch on friday", "what is lunch friday"],
+     "responses": ["For week 2 & 4: Musturd raw banana gravy, Rajma masala , Bottle Guard Sambar, Kerala rice, Phulka, Curd & Sugar and For week 1 & 3: Rajma masala, Bottle Guard Sambar, Kerala rice, Phulka, Minty Buttermilk"]
+    },
+
+    {"tag": "saturday lunch",
+     "patterns": ["what is for lunch on saturday", "what is lunch on saturday", "what is lunch saturday"],
+     "responses": ["Drum Stick-Tomato gravy, Dal Makhni, Fried aloo, Phulka, Rasam, curd & sugar"]
+    },
+
+    {"tag": "mess error",
+     "patterns": ["what is lunch today", "what is breakfast today"],
+     "responses": ["Please specify day"]
+    },
+
+    {"tag": "mess pdf",
+     "patterns": ["give me pdf for mess menu", "give me mess menu", "what is mess menu", "what are mess timings", "what is mess today", "what is mess tomorrow", "what is dinner today", "what are snacks today"],
+     "responses": ["Mess Menu and Timings IIT Palakkad.pdf"]
+    },
+
+    {"tag": "Faculty information",
+     "patterns": ["where can I find information about faculty", "what is the email of sir", "what is the email of madam", "what is the email of ma'am", "what is the email of professor", "who are faculty of IIT palakkad"],
+     "responses": ["You can find the required information here: https://iitpkd.ac.in/faculty-a-z-lists"]
+    },
+
+    {"tag": "staff information",
+     "patterns": ["where can I find information about staff", "what is the email of staff"],
+     "responses": ["You can find the required information here: https://iitpkd.ac.in/staff-list"]
+    },
+
+    {
+        "tag": "Director",
+        "patterns": ["Who is the director of IIT Palakkad", "What is the email of director", "director of IIT Palakkad"],
+        "responses": ["You can find the required information about the Director here: https://iitpkd.ac.in/people/as_sekhar"] 
+    },
+
+    {
+        "tag": "faculty and staff of Computer science",
+        "patterns": ["who are faculty and staff of computer science", "faculty of CSE", "information of CS department"],
+        "responses": ["You can find the required information here: https://iitpkd.ac.in/cse"]
+    },
+
+    {
+        "tag": "faculty and staff of Mechanical Engineering",
+        "patterns": ["who are faculty and staff of Mechanical Engineering", "faculty of ME", "information of ME department"],
+        "responses": ["You can find the required information here: https://iitpkd.ac.in/me"]
+    },
+
+    {
+        "tag": "faculty and staff of Electrical Engineering",
+        "patterns": ["who are faculty and staff of Electrical Engineering", "faculty of EE", "information of EE department"],
+        "responses": ["You can find the required information here: https://iitpkd.ac.in/ee"]
+    },
+
+    {
+        "tag": "faculty and staff of Civil Engineering",
+        "patterns": ["who are faculty and staff of Civil Engineering", "faculty of CE", "information of CE department"],
+        "responses": ["You can find the required information here: https://iitpkd.ac.in/civil-engg"]
+    },
+
+    {
+        "tag": "faculty and staff of Data Science",
+        "patterns": ["who are faculty and staff of Data Science", "faculty of DS", "information of DS department"],
+        "responses": ["You can find the required information here: https://iitpkd.ac.in/ds"]
+    },
+
+    {
+        "tag": "Transportation timings",
+        "patterns": ["What buses are available now", "what are the transportation timings", "Are there any buses right now"],
+        "responses": ["You can find the transportation timings here: https://iitpkd.ac.in/sites/default/files/2024-04/e0abcace-12a1-4e17-a51b-033f2a3037d1.pdf"]
+    },
+
+    {
+        "tag": "Time table",
+        "patterns": ["What is today's time table", "what classes do I have today", "What is schedule", "what classes are there today"],
+        "responses": ["You can find the Time table here: https://iitpkd.ac.in/sites/default/files/2024-04/b1785210-221a-4b3f-ab72-391364798371-TTJM24.pdf"]
+    },
+
+    {
+        "tag": "Academic Calender",
+        "patterns": ["What is holiday schedule", "what are holidays this year", "What is the academic calender", "give me Holiday calender"],
+        "responses": ["You can find the Academic Calender here: https://iitpkd.ac.in/sites/default/files/2024-02/4394acbc-2a1f-4b85-b2b8-00757dde9e26.pdf"]
+    },
+
+    {
+        "tag": "Address",
+        "patterns": ["what is the address of IIT Palakkad", "what is the pin code of IIT palakkad", "where is IIT Palakkad"],
+        "responses": ["Indian Institute of Technology Palakkad | Kanjikkode | Palakkad | Kerala | Pin: 678623"]
+    }
+]}
