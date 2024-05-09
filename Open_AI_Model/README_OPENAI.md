@@ -3,8 +3,11 @@ This model was developed to tackle the problems with the NLP model. It is incomp
 
 # Prerequisites for Open_AI_Model
 >>> pip install openai
+
 >>> pip install faiss
+
 >>> pip install pypdf2
+
 >>> pip install nltk
 
 # Working of the bot
