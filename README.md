@@ -4,6 +4,8 @@
   1. Dhanurvikranth Palla - 132301025
   2. Mocharla Akash - 112301022
   3. Sujit Kumar Choudhary - 112301001
+# Introduction
+This is a information bot which give information about IIT Palakkad. (NLP_Model)
 
 # Prerequisites Required to run the code 
 >>> pip intall tensorflow
