@@ -2,8 +2,8 @@
 
 # Group Members
   1. Dhanurvikranth Palla - 132301025
-  2. Mocharla Akash
-  3. Sujit Kumar Choudhary
+  2. Mocharla Akash - 112301022
+  3. Sujit Kumar Choudhary - 112301001
 
 # Prerequisites Required to run the code 
 >>> pip intall tensorflow
